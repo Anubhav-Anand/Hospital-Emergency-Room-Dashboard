@@ -44,6 +44,3 @@ It showcases data analytics skills useful for MIS, Data Analyst, and Business An
 
 Anubhav Anand
 MIS Executive | Excel | Power BI | Data Analysis
-
-
-![img alt](https://github.com/Anubhav-Anand/Hospital-Emergency-Room-Dashboard/blob/a8489319170e23951c05d584bf6ecd9a81a98268/Hospital%20Emergency%20Room%20-%20Copy.png)
